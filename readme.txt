@@ -37,6 +37,9 @@ This is not a standalone plugin for WordPress, it only adds additional functiona
 
 == Screenshots ==
 
+1. My Pantry Widget.
+2. Widget output.
+
 == Changelog ==
 
 = 1.0 =
